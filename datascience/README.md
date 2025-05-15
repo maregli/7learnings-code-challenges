@@ -42,4 +42,25 @@ Your application will be reviewed by our engineers. The aspects of your code we 
 - understanding of time-dependent data
 - machine learning knowledge and evaluation metrics 
 
+# Run Solution
+
+I Used Poetry for dependency management.
+
+## Setup and Run
+
+1. **Install Poetry**  
+Follow the official instructions to install Poetry:  
+https://python-poetry.org/docs/#installation
+
+2. **Install dependencies**  
+In the project root directory, run:  
+```bash
+poetry install
+```
+
+3. **Run code**
+Select the correct .venv kernel and run the whole notebook.
+
+
+
 
